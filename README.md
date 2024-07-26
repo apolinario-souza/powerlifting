@@ -1,17 +1,38 @@
 # Powerlifting: projeto de pesquisa e extensão da UFRGS
 Projeto de pesquisa e extensão sobre a modalidade esportiva Powerlifting na UFRGS.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+<details>
+  <summary>Projeto 0: Validação do Sistema de Acelerômetro</summary>
+ Objetivo
+  
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+<details>
+  <summary>Projeto 1: Efeitos do foco de atenção no Powerlifting</summary>
+ Objetivo
+  
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+<details>
+  <summary>Projeto 2: Efeitos da interferência contextual na aprendizagem do Powerlifting</summary>
+ Objetivo
+  
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+<details>
+  <summary>Projeto 3: Cognitive load na elite e novatos em Powerlifting</summary>
+ Objetivo
+  
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
