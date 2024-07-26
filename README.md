@@ -22,7 +22,7 @@ Delineamento e Procedimento: o participante deverá executar as habilidades do P
  
  Medidas: variabilidade cardíaca; resposta metabólica à condição de prática, estratégia de controle motor (acelerômentro e plataforma de força) e desempenho motor.  
   
-  - Data: 31/10/2024 - 31/10/2024
+  - Data: 31/10/2024 - 15/12/2024
   - Responsável: Mathias 
   - Equipe:
 </details>
