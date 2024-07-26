@@ -17,9 +17,9 @@ Projeto de pesquisa e extensão sobre a modalidade esportiva Powerlifting na UFR
  Objetivo: avaliar os efeitos do foco de atenção na estratégia de controle motor e no desempenho motor no Powerlifting
  Hipótese: foco externo apresentará melhor estratégia de controle motor e desempenho motor nas habilidades do Powerlifting
  Delineamento e Procedimento: o participante deverá executar as habilidades do Powerlifting em um sistema "padrão ouro" (setor biomecânica) e o nosso sistema de acelerômetro.
-  
+ Medidas: variabilidade cardíaca; resposta metabólica à condição de prática, estratégia de controle motor (acelerômentro e plataforma de força) e desempenho motor.  
   - Data: 31/10/2024 - 31/10/2024
-  - Responsável:
+  - Responsável: Mathias 
   - Equipe:
 </details>
 
