@@ -29,7 +29,17 @@ Projeto de pesquisa e extensão sobre a modalidade esportiva Powerlifting na UFR
 </details>
 
 <details>
-  <summary>Projeto 3: Cognitive load na elite e novatos em Powerlifting</summary>
+  <summary>Projeto 3: Efeitos do *feedback* visual no Powerlifting</summary>
+ Objetivo
+  
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
+
+
+<details>
+  <summary>Projeto 4: Cognitive load na elite e novatos em Powerlifting</summary>
  Objetivo
   
   - Item 1
