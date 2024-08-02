@@ -14,6 +14,7 @@
 
 Obs. A primeira rodada de intervenção será com 6 pessoas.
 
+### Projetos
 <details>
   <summary>Projeto 0: Validação do Sistema de Acelerômetro</summary>
  Objetivo: validar um sistema da avaliação da aceleração da barra durante a execução das habilidades do Powerlifting
