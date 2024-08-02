@@ -12,7 +12,8 @@
 |Treino 1 (Proj 1)      |        |        |X       |X       |X       |        |        |        |        |        |
 |Pós-treinamento 1 Proj1|        |        |        |        |X       |        |        |        |        |        |
 
-Obs. A primeira rodada de intervenção será com 6 pessoas.
+Obs1. A primeira rodada de intervenção será com 6 pessoas.
+Obs2. A proposta é que o voluntário que participou de um projeto entre automáticamente no outro projeto.
 
 ### Projetos
 <details>
