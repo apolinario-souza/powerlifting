@@ -14,13 +14,13 @@ Projeto de pesquisa e extensão sobre a modalidade esportiva Powerlifting na UFR
 
 <details>
   <summary>Projeto 1: Efeitos do foco de atenção no Powerlifting</summary>
-Objetivo: avaliar os efeitos do foco de atenção na estratégia de controle motor e no desempenho motor no Powerlifting
+Objetivo: avaliar os efeitos do foco de atenção na estratégia de controle motor e na aprendizagem motora no Powerlifting
 
-Hipótese: foco externo apresentará melhor estratégia de controle motor e desempenho motor nas habilidades do Powerlifting
+Hipótese: foco externo apresentará melhores níveis de aprendizagem motora nas habilidades do Powerlifting do que o foco interno. 
 
-Delineamento e Procedimento: o participante deverá executar as habilidades do Powerlifting em um sistema "padrão ouro" (setor biomecânica) e o nosso sistema de acelerômetro.
+Delineamento e Procedimento: os participantes da pesquisa serão divididos igualmente, contrabalanceados por sexo e pareados por idade, em três grupos: treinamento com foco interno; treinamento com foco externo; grupo controle, que realizará apenas o treinamento de força sem direcionamento de atenção. Os três grupos passarão por três fases distintas ao longo do experimento: pré-treinamento, treinamento de força e pós-treinamento. O pré-treinamento compreenderá a sessão de familiarização e o teste de uma repetição máxima (1RM) com intervalo de 24 horas entre as sessões. A fase de treinamento compreenderá uma periodização de oito semanas que iniciará 48h após o teste de 1RM e o pós-treinamento será realizado ao menos 48h após o fim do treinamento periodizado, ocorrendo novamente o teste de 1RM.
  
- Medidas: variabilidade cardíaca; resposta metabólica à condição de prática, estratégia de controle motor (acelerômentro e plataforma de força) e desempenho motor.  
+Medidas: 1RM nas habilidades.  
   
   - Data: 31/10/2024 - 15/12/2024
   - Responsável: Mathias 
@@ -31,9 +31,9 @@ Delineamento e Procedimento: o participante deverá executar as habilidades do P
   <summary>Projeto 2: Efeitos da interferência contextual na aprendizagem do Powerlifting</summary>
  Objetivo
   
-  - Item 1
-  - Item 2
-  - Item 3
+  - 
+  - 
+  - 
 </details>
 
 <details>
@@ -52,7 +52,7 @@ Delineamento e Procedimento: o participante deverá executar as habilidades do P
   <summary>Projeto 4: Cognitive load na elite e novatos em Powerlifting</summary>
  Objetivo
   
-  - Item 1
-  - Item 2
-  - Item 3
+  - 
+  - 
+  - 
 </details>
