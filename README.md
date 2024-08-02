@@ -71,3 +71,16 @@ Medidas: 1RM nas habilidades.
   - 
   - 
 </details>
+
+### Equipes
+#### Avaliação
+Responsável: Bruno
+Equipe:
+
+#### Prescrição e monitoramento do treino
+Responsável: Rafael
+Equipe:
+
+
+
+
