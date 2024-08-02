@@ -12,7 +12,7 @@
 |Treino 1 (Proj 1)      |        |        |X       |X       |X       |        |        |        |        |        |
 |Pós-treinamento 1 Proj1|        |        |        |        |X       |        |        |        |        |        |
 
-Obs. Inicialmente o recrutamento ocorrerá de 6 em 6 pessoas.
+Obs. A primeira rodada de intervenção será com 6 pessoas.
 
 <details>
   <summary>Projeto 0: Validação do Sistema de Acelerômetro</summary>
