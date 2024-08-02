@@ -13,7 +13,8 @@
 |Pós-treinamento 1 Proj1|        |        |        |        |X       |        |        |        |        |        |
 
 Obs1. A primeira rodada de intervenção será com 6 pessoas.
-Obs2. A proposta é que o voluntário que participou de um projeto entre automáticamente no outro projeto.
+
+Obs2. Cada voluntário que participou de um projeto entrará automáticamente no outro projeto.
 
 ### Projetos
 <details>
@@ -75,10 +76,12 @@ Medidas: 1RM nas habilidades.
 ### Equipes
 #### Avaliação
 Responsável: Bruno
+
 Equipe:
 
 #### Prescrição e monitoramento do treino
 Responsável: Rafael
+
 Equipe:
 
 
