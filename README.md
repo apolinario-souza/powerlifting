@@ -1,5 +1,17 @@
 # Powerlifting: projeto de pesquisa e extensão da UFRGS
-Projeto de pesquisa e extensão sobre a modalidade esportiva Powerlifting na UFRGS.
+## Projeto de pesquisa e extensão sobre a modalidade esportiva Powerlifting na UFRGS
+
+### Cronograma
+
+| Ações                 | Ago 24 | Set 24 | Out 24 | Nov 24 | Dez 24 | Jan 25 | Fev 25 | Mar 25 | Abr 25 | Mai 25 |
+|-----------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|Proj0                  |X       |        |        |        |        |        |        |        |        |        |
+|Treinamento da equipe  |X       |X       |        |        |        |        |        |        |        |        |
+|Recrutamento 1 (Proj1) |        |X       |        |        |        |        |        |        |        |        |
+|Pré-treinamento 1 Proj1|        |        |X       |        |        |        |        |        |        |        |
+|Treino 1 (Proj 1)      |        |        |X       |X       |X       |        |        |        |        |        |
+|Pós-treinamento 1 Proj1|        |        |        |        |X       |        |        |        |        |        |
+
 
 <details>
   <summary>Projeto 0: Validação do Sistema de Acelerômetro</summary>
